@@ -7,7 +7,7 @@ Website ini masih dalam tahap pengerjaan. Fokus saat ini adalah:
 - [x] Slicing template statis ke Laravel Blade Components.
 - [x] Setup struktur folder dan asset management.
 - [/] Penyesuaian konten teks dan gambar branding Infinity Media.
-- [ ] Integrasi fitur Call-to-Action (WhatsApp & Contact Form).
+- [/] Integrasi fitur Call-to-Action (WhatsApp & Contact Form).
 
 ## 💎 Project Highlights
 - **Framework:** Laravel 12.45.1
