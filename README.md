@@ -6,8 +6,8 @@ Project pengembangan Landing Page untuk **CV. Infinity Media**. Project ini seda
 Website ini masih dalam tahap pengerjaan. Fokus saat ini adalah:
 - [x] Slicing template statis ke Laravel Blade Components.
 - [x] Setup struktur folder dan asset management.
-- [/] Penyesuaian konten teks dan gambar branding Infinity Media.
-- [/] Integrasi fitur Call-to-Action (WhatsApp & Contact Form).
+- [ ] Penyesuaian konten teks dan gambar branding Infinity Media. (In Progress)
+- [ ] Integrasi fitur Call-to-Action (WhatsApp & Contact Form). (In Progress)
 
 ## 💎 Project Highlights
 - **Framework:** Laravel 12.45.1
